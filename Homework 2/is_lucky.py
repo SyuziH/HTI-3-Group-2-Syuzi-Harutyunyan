@@ -11,3 +11,4 @@ if (sum(the_first_half) == sum(the_second_half)):
     print('Yes')
 else:
     print('No')
+
