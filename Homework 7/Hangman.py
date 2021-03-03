@@ -1,5 +1,4 @@
-print(
-    " Welcome to the Hangman game! You have five guesses to get the answer correct, or you will loose:(")
+print( " Welcome to the Hangman game! You have five guesses to get the answer correct, or you will loose:(")
 
 import random
 
