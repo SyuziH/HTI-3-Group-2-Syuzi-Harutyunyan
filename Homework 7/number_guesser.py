@@ -1,4 +1,4 @@
-numbers = [int(x) for x in range(0, 101)]
+numbers = [int(x) for x in range(0, 1001)]
 start = 0
 current = 500
 end = 1000
