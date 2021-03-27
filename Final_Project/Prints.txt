@@ -1,0 +1,5 @@
+                                                                          Welcome The Game 'Who Wants To Be A Millionaire ?'
+Rules of the Game.The Who Wants to Be a  Millionaire questions are structured according to three different Levels with each level increasing in difficulty. Each level contains five questions.Questions that are grouped
+into the same level will all be of similar difficulty. For example: Questions 1-5 make up the first Level and will contain the easiest questions. The second Level (Questions 5 – 10) will be slightly more difficult.
+The third Level (Questions 10-15) will consist of really difficult questions. Enter "a / b / c / d" to answer the questions. Please enter a lowercase letter.
+Lifelines: You have tips,but the tip may be wrong: Enter '*' to use a tip.
